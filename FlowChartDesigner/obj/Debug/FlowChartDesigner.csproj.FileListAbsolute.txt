@@ -1,0 +1,184 @@
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\PROGRAMACION\MIS PROGRAMAS\1 er año\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.frProbabilityData.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.frProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.frProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.frProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.frProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+G:\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+G:\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+G:\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+G:\Red Bayesiana1.3\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+G:\Red Bayesiana1.3\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\bin\Debug\RB_Message_Transfer.dll
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.csprojResolveAssemblyReference.cache
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.FlowChartViewer.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.FrProbabilityData.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.Properties.Resources.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.csproj.GenerateResource.Cache
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb

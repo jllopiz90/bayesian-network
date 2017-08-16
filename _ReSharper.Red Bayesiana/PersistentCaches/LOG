@@ -1,0 +1,16 @@
+2013/04/28-23:54:51.232 3d8 Recovering log #92
+2013/04/28-23:54:51.233 3d8 Level-0 table #94: started
+2013/04/28-23:54:51.265 3d8 Level-0 table #94: 13775 bytes OK
+2013/04/28-23:54:51.352 3d8 Delete type=0 #89
+2013/04/28-23:54:51.361 3d8 Delete type=0 #92
+2013/04/28-23:54:51.369 3d8 Delete type=3 #87
+2013/04/28-23:54:51.381 3d8 Delete type=3 #90
+2013/04/28-23:54:51.391 aa4 Compacting 4@0 + 1@1 files
+2013/04/28-23:54:52.003 aa4 Generated table #96: 225 keys, 37169 bytes
+2013/04/28-23:54:52.004 aa4 Compacted 4@0 + 1@1 files => 37169 bytes
+2013/04/28-23:54:52.017 aa4 Delete type=2 #83
+2013/04/28-23:54:52.033 aa4 Delete type=2 #85
+2013/04/28-23:54:52.039 aa4 Delete type=2 #88
+2013/04/28-23:54:52.051 aa4 Delete type=2 #91
+2013/04/28-23:54:52.064 aa4 Delete type=2 #94
+2013/04/28-23:54:52.073 aa4 compacted to: files[ 0 1 0 0 0 0 0 ]

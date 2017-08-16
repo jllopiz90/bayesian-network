@@ -1,0 +1,5 @@
+2013/04/02-10:17:49.766 ebc Recovering log #89
+2013/04/02-10:17:49.766 ebc Level-0 table #91: started
+2013/04/02-10:17:49.828 ebc Level-0 table #91: 35334 bytes OK
+2013/04/02-10:17:49.908 ebc Delete type=0 #89
+2013/04/02-10:17:49.922 ebc Delete type=3 #87

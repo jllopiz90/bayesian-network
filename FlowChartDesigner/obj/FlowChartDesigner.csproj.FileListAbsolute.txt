@@ -1,0 +1,20 @@
+D:\Profiles\feli\My Documents\Visual Studio 2005\Projects\FlowChartDesigner\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\Profiles\feli\My Documents\Visual Studio 2005\Projects\FlowChartDesigner\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\Profiles\feli\My Documents\Visual Studio 2005\Projects\FlowChartDesigner\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\Profiles\feli\My Documents\Visual Studio 2005\Projects\FlowChartDesigner\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\Profiles\feli\My Documents\Visual Studio 2005\Projects\FlowChartDesigner\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\Profiles\prueba\Desktop\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\Profiles\prueba\Desktop\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\Profiles\prueba\Desktop\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\Profiles\prueba\Desktop\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\Profiles\prueba\Desktop\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+D:\Profiles\prueba\Desktop\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+D:\Profiles\prueba\Desktop\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+D:\Profiles\prueba\Desktop\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+D:\Profiles\prueba\Desktop\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+D:\Profiles\prueba\Desktop\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb
+G:\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.dll
+G:\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\bin\Debug\FlowChartDesigner.pdb
+G:\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\ResolveAssemblyReference.cache
+G:\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.dll
+G:\yasel.walle\FlowChartDesigner 2005\FlowChartDesigner\obj\Debug\FlowChartDesigner.pdb

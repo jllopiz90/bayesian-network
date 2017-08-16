@@ -1,0 +1,5 @@
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

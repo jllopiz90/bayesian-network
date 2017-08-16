@@ -1,0 +1,5 @@
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\bin\Release\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\bin\Release\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Release\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Release\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\RB_Message_Transfer\obj\Release\RB_Message_Transfer.pdb

@@ -1,0 +1,9 @@
+<Modules>
+  <Module PersistentId="B257F2BD-9CF2-49B1-B027-FCB7F200739D" ModuleId="Red Bayesiana" />
+  <Module PersistentId="CFD35A83-DFDE-42B4-B804-24B10DB0B30D" ModuleId="RB_Message_Transfer" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib" />
+  <Module PersistentId="92684859-A0B5-4D33-AA12-84DC3836969E" ModuleId="FlowChartDesigner" />
+  <Module PersistentId="E72EFB49-C6CD-4947-8216-09862DC98037" ModuleId="Testing" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="mscorlib_1" />
+</Modules>

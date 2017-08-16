@@ -1,0 +1,219 @@
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\Programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Form1.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Form1.resources
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\Trabajo\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\Red Bayesiana\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.1\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.frProbabilityData.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.4\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.6\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.7\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.8\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.0\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana1.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\Rachel Febles\Yasel\programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\Rachel Febles\Yasel\Programas\RB\Red Bayesiana1.2\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.paralell.resources
+G:\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+G:\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.paralell.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\llopiz\Desktop\Redes bayesianas\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+G:\Red Bayesiana1.3\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.paralell.resources
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+G:\Red Bayesiana1.3\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+F:\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+F:\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\Red Bayesiana.exe
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\Red Bayesiana.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\FlowChartDesigner.dll
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\RB_Message_Transfer.dll
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\FlowChartDesigner.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\bin\Debug\RB_Message_Transfer.pdb
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csprojResolveAssemblyReference.cache
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.App.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.paralell.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red_Bayesiana.Properties.Resources.resources
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.csproj.GenerateResource.Cache
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.exe
+C:\Users\chuch\Documents\chuchi\Redes Bayesianas\Red Bayesiana1.4\Red Bayesiana\obj\x86\Debug\Red Bayesiana.pdb

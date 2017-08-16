@@ -1,0 +1,5 @@
+bin\Debug\FlowChartDesigner.dll
+bin\Debug\FlowChartDesigner.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FlowChartDesigner.dll
+obj\Debug\FlowChartDesigner.pdb

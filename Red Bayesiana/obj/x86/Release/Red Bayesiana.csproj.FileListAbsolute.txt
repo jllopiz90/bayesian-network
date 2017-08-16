@@ -1,0 +1,13 @@
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\Red Bayesiana.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\FlowChartDesigner.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\RB_Message_Transfer.dll
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\FlowChartDesigner.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\bin\Release\RB_Message_Transfer.pdb
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\ResolveAssemblyReference.cache
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\Red_Bayesiana.App.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\Red_Bayesiana.Properties.Resources.resources
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\GenerateResource.read.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\GenerateResource.write.1.tlog
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\Red Bayesiana.exe
+D:\YASEL\Universidad\Clases 4to\Redes Bayesianas\Red Bayesiana0.9\Red Bayesiana\obj\x86\Release\Red Bayesiana.pdb
